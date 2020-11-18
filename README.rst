@@ -6,7 +6,7 @@
 .. image:: https://img.shields.io/badge/JavaScript-V.1.8.5-yellow?logo=JavaScript&style=plastic
 .. image:: https://img.shields.io/badge/Chat%20-on%20Matrix-brightgreen?style=plastic&logo=matrix&link=https://cutt.ly/pg6bwlm
 
-
+(To chat on Matrix, click on the button, then click on it again in the new webpage that appears.)
 
 Vortex Is a fully customizable platform to add your own web based tools into a safe working environment. 
 
