@@ -6,5 +6,6 @@ group: edge
 
 before_script:
   - sudo apt install lynx
+  - gem install jekyll html-proofer
 
 script: jekyll build
