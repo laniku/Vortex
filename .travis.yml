@@ -1,0 +1,11 @@
+arch: amd64
+virt: lxd             # required, routes to an LXD container
+os: linux             # required for arch different than amd64
+dist: bionic
+group: edge
+
+before_script:
+  - sudo apt install lynx
+  - gem install jekyll html-proofer
+
+script: jekyll build
